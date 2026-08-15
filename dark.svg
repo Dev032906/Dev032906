@@ -1,5 +1,5 @@
-<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Alex Chen developer profile header">
-<title>Alex Chen — Developer Profile</title>
+<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Devarajan developer profile header">
+<title>Devarajan — Developer Profile</title>
 <defs>
 <clipPath id="rootClip"><rect x="0" y="0" width="1180" height="610" rx="26" ry="26"/></clipPath>
 <clipPath id="leftClip"><rect x="32" y="32" width="416" height="546" rx="20" ry="20"/></clipPath>
@@ -112,7 +112,7 @@
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2; 0 0" dur="6s" repeatCount="indefinite"/>
 <text x="520" y="110" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="15.5" fill="#94A3B8"><tspan fill="#10B981">$</tspan> whoami</text>
-<text x="520" y="143" font-family="-apple-system,Segoe UI,Inter,sans-serif" font-size="27" font-weight="700" fill="#F8FAFC">Hi <tspan>👋</tspan> I'm <tspan fill="url(#accentGrad)">Alex Chen</tspan></text>
+<text x="520" y="143" font-family="-apple-system,Segoe UI,Inter,sans-serif" font-size="27" font-weight="700" fill="#F8FAFC">Hi <tspan>👋</tspan> I'm <tspan fill="url(#accentGrad)">Devarajan</tspan></text>
 </g>
 <text x="520" y="174" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="17" fill="#22D3EE">&gt;</text>
 <g transform="translate(540,0)">
