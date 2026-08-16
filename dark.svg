@@ -77,23 +77,42 @@
 <line x1="48" y1="78" x2="432" y2="78" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" dur="5s" repeatCount="indefinite"/>
-<text x="76" y="130" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">      ╔═══════════════╗<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.0s" repeatCount="indefinite"/></text>
-<text x="76" y="151" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">      ║   ▄▄▄▄▄▄▄▄▄   ║<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.18s" repeatCount="indefinite"/></text>
-<text x="76" y="172" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">      ║  █         █  ║<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.36s" repeatCount="indefinite"/></text>
-<text x="76" y="193" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">      ║  █  ●   ●  █  ║<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.54s" repeatCount="indefinite"/></text>
-<text x="76" y="214" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">      ║  █    ▼    █  ║<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.72s" repeatCount="indefinite"/></text>
-<text x="76" y="235" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">      ║  █  ╰───╯  █  ║<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.9s" repeatCount="indefinite"/></text>
-<text x="76" y="256" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">      ║  █▄▄▄▄▄▄▄▄▄█  ║<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.08s" repeatCount="indefinite"/></text>
-<text x="76" y="277" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">      ╚══════╦╦══════╝<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.26s" repeatCount="indefinite"/></text>
-<text x="76" y="298" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">         ┌───╨╨───┐<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.44s" repeatCount="indefinite"/></text>
-<text x="76" y="319" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">         │ ░░░░░░ │<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.62s" repeatCount="indefinite"/></text>
-<text x="76" y="340" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">         │ ░░░░░░ │<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.8s" repeatCount="indefinite"/></text>
-<text x="76" y="361" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">     ╔═══╧════════╧═══╗<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.98s" repeatCount="indefinite"/></text>
-<text x="76" y="382" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">     ║  &lt;  DEV / OK  &gt;║<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="2.16s" repeatCount="indefinite"/></text>
-<text x="76" y="403" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14.5" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">     ╚════════════════╝<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="2.34s" repeatCount="indefinite"/></text>
-<rect x="76" y="412" width="9" height="15" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.05;0.06;0.5;0.51;1" dur="1.1s" begin="2.6s" repeatCount="indefinite"/></rect>
+<text x="78" y="122" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">                                                      <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.0s" repeatCount="indefinite"/></text>
+<text x="78" y="134" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">                      .:-==--:.                       <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.07s" repeatCount="indefinite"/></text>
+<text x="78" y="146" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">                  .-=*%@@@@@@@@%%#*-                  <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.14s" repeatCount="indefinite"/></text>
+<text x="78" y="158" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">                -#%@@@@@@@@@@@@@@@@@*:                <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.21s" repeatCount="indefinite"/></text>
+<text x="78" y="170" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">              .#@@@@%%#****#####%@@%@@+               <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.28s" repeatCount="indefinite"/></text>
+<text x="78" y="182" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">              =@%@%*=-:::::-----=+#%@%@.              <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.35s" repeatCount="indefinite"/></text>
+<text x="78" y="194" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">              =%%*=--:::::::::::--=+%%%#              <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.42s" repeatCount="indefinite"/></text>
+<text x="78" y="206" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">              %@#=---:::::::::::---=+%%#              <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.49s" repeatCount="indefinite"/></text>
+<text x="78" y="218" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">              *@+----::...:::..:::--=#@=              <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.56s" repeatCount="indefinite"/></text>
+<text x="78" y="230" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">              +#-+*****=--:.:-=+*++*==%:              <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.63s" repeatCount="indefinite"/></text>
+<text x="78" y="242" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">              :*+*+*#%%%#++++#%%%#*+*+*.              <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.7s" repeatCount="indefinite"/></text>
+<text x="78" y="254" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">             ..#*+##*#+*+%*+%*++#**#+*#:              <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.77s" repeatCount="indefinite"/></text>
+<text x="78" y="266" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">             *==+==-----=#:.+*-----==+=++             <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.84s" repeatCount="indefinite"/></text>
+<text x="78" y="278" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">             -====--:::-*-:::*+-::-=====-             <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.91s" repeatCount="indefinite"/></text>
+<text x="78" y="290" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">              :+--=--=-==-.:-========-+-              <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="0.98s" repeatCount="indefinite"/></text>
+<text x="78" y="302" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">               -+---:::=##*+#%+-::---=+               <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.05s" repeatCount="indefinite"/></text>
+<text x="78" y="314" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">                =+===*%%%*+=+#%%%*===*.               <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.12s" repeatCount="indefinite"/></text>
+<text x="78" y="326" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">                .**++*+++====+++*#++#-                <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.19s" repeatCount="indefinite"/></text>
+<text x="78" y="338" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">                 .*#+=---*##%=-==+*#:                 <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.26s" repeatCount="indefinite"/></text>
+<text x="78" y="350" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">                  =#%%*=+***#+=+#%#+                  <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.33s" repeatCount="indefinite"/></text>
+<text x="78" y="362" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">                :*-++#%%@@%%%@@%%*+-+.                <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.4s" repeatCount="indefinite"/></text>
+<text x="78" y="374" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">             .-*@* =+=+**#%%%##*++= *%=.              <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.47s" repeatCount="indefinite"/></text>
+<text x="78" y="386" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">        .:=*#%%%%*  :====+++++==+=. +@%%#*=-.         <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.54s" repeatCount="indefinite"/></text>
+<text x="78" y="398" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">   .:-+*#%%%%%%%%%:   :-=======-.   #%%%%@@%%#+=-.    <animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.61s" repeatCount="indefinite"/></text>
+<text x="78" y="410" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">=+*#%%%%%%#%##%%%%+     :-===-.    :%%%%%%%#%%%%%%#*+-<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.68s" repeatCount="indefinite"/></text>
+<text x="78" y="422" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">%%%%%####%%####%%%*.     .---      +%#%%%#%%#######%%%<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.75s" repeatCount="indefinite"/></text>
+<text x="78" y="434" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">#########%%%%#####:   :*#****=    *###%%%%%##########<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.82s" repeatCount="indefinite"/></text>
+<text x="78" y="446" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">###########%%#####%=   =+##*#*=-  :######%############<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.89s" repeatCount="indefinite"/></text>
+<text x="78" y="458" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">##########%########*.    :#*#     +%##################<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="1.96s" repeatCount="indefinite"/></text>
+<text x="78" y="470" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">##########%#########:    -#*#.   .*########%##########<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="2.03s" repeatCount="indefinite"/></text>
+<text x="78" y="482" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">%#########%%#######%=    ##+#*   :#########%#########%<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="2.1s" repeatCount="indefinite"/></text>
+<text x="78" y="494" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">%%#########%########*   -#***#-  =%#######%#########%%<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="2.17s" repeatCount="indefinite"/></text>
+<text x="78" y="506" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.6" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">@%##########%########.  +*****+  *##################%@<animate attributeName="opacity" values="0;1;1;0.15;0" keyTimes="0;0.05;0.82;0.9;1" dur="18s" begin="2.24s" repeatCount="indefinite"/></text>
+<rect x="78" y="506" width="9" height="15" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.05;0.06;0.5;0.51;1" dur="1.1s" begin="2.6s" repeatCount="indefinite"/></rect>
 </g>
-<circle cx="240.0" cy="250" r="150" fill="url(#glowB)" opacity="0.55"/>
+<circle cx="240.0" cy="302" r="180" fill="url(#glowB)" opacity="0.5"/>
 <rect x="32" y="0" width="416" height="46" fill="url(#scanGrad)"><animateTransform attributeName="transform" type="translate" values="0 32; 0 532; 0 32" dur="6s" repeatCount="indefinite"/></rect>
 <text x="240.0" y="544" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11.5" fill="#94A3B8" letter-spacing="1.5">&lt; BUILDING THINGS THAT MATTER /&gt;</text>
 <line x1="112" y1="558" x2="368" y2="558" stroke="url(#accentGrad)" stroke-width="1.5" opacity="0.6"/>
@@ -116,132 +135,133 @@
 </g>
 <text x="520" y="174" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="17" fill="#22D3EE">&gt;</text>
 <g transform="translate(540,0)">
-<clipPath id="roleClip_dark_0"><rect x="0" y="156" height="24" width="0"><animate attributeName="width" values="0;158.1;158.1;158.1;0;0" keyTimes="0;0.28;0.30;0.85;0.9;1" dur="18.0s" begin="0.0s" repeatCount="indefinite"/></rect></clipPath>
-<g clip-path="url(#roleClip_dark_0)"><text x="0" y="174" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="15.5" fill="#F8FAFC" font-weight="600">Frontend Engineer</text></g>
+<clipPath id="roleClip_dark_0"><rect x="0" y="156" height="24" width="0"><animate attributeName="width" values="0;130.2;130.2;130.2;0;0" keyTimes="0;0.28;0.30;0.85;0.9;1" dur="18.0s" begin="0.0s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#roleClip_dark_0)"><text x="0" y="174" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="15.5" fill="#F8FAFC" font-weight="600">AI/ML Engineer</text></g>
 <clipPath id="roleClip_dark_1"><rect x="0" y="156" height="24" width="0"><animate attributeName="width" values="0;186.0;186.0;186.0;0;0" keyTimes="0;0.28;0.30;0.85;0.9;1" dur="18.0s" begin="3.6s" repeatCount="indefinite"/></rect></clipPath>
 <g clip-path="url(#roleClip_dark_1)"><text x="0" y="174" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="15.5" fill="#F8FAFC" font-weight="600">Full Stack Developer</text></g>
-<clipPath id="roleClip_dark_2"><rect x="0" y="156" height="24" width="0"><animate attributeName="width" values="0;213.9;213.9;213.9;0;0" keyTimes="0;0.28;0.30;0.85;0.9;1" dur="18.0s" begin="7.2s" repeatCount="indefinite"/></rect></clipPath>
-<g clip-path="url(#roleClip_dark_2)"><text x="0" y="174" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="15.5" fill="#F8FAFC" font-weight="600">Open Source Contributor</text></g>
-<clipPath id="roleClip_dark_3"><rect x="0" y="156" height="24" width="0"><animate attributeName="width" values="0;102.3;102.3;102.3;0;0" keyTimes="0;0.28;0.30;0.85;0.9;1" dur="18.0s" begin="10.8s" repeatCount="indefinite"/></rect></clipPath>
-<g clip-path="url(#roleClip_dark_3)"><text x="0" y="174" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="15.5" fill="#F8FAFC" font-weight="600">UI Engineer</text></g>
-<clipPath id="roleClip_dark_4"><rect x="0" y="156" height="24" width="0"><animate attributeName="width" values="0;120.9;120.9;120.9;0;0" keyTimes="0;0.28;0.30;0.85;0.9;1" dur="18.0s" begin="14.4s" repeatCount="indefinite"/></rect></clipPath>
-<g clip-path="url(#roleClip_dark_4)"><text x="0" y="174" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="15.5" fill="#F8FAFC" font-weight="600">AI Enthusiast</text></g>
+<clipPath id="roleClip_dark_2"><rect x="0" y="156" height="24" width="0"><animate attributeName="width" values="0;204.6;204.6;204.6;0;0" keyTimes="0;0.28;0.30;0.85;0.9;1" dur="18.0s" begin="7.2s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#roleClip_dark_2)"><text x="0" y="174" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="15.5" fill="#F8FAFC" font-weight="600">GenAI &amp; NLP Enthusiast</text></g>
+<clipPath id="roleClip_dark_3"><rect x="0" y="156" height="24" width="0"><animate attributeName="width" values="0;186.0;186.0;186.0;0;0" keyTimes="0;0.28;0.30;0.85;0.9;1" dur="18.0s" begin="10.8s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#roleClip_dark_3)"><text x="0" y="174" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="15.5" fill="#F8FAFC" font-weight="600">Data Science Student</text></g>
+<clipPath id="roleClip_dark_4"><rect x="0" y="156" height="24" width="0"><animate attributeName="width" values="0;158.1;158.1;158.1;0;0" keyTimes="0;0.28;0.30;0.85;0.9;1" dur="18.0s" begin="14.4s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#roleClip_dark_4)"><text x="0" y="174" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="15.5" fill="#F8FAFC" font-weight="600">Software Engineer</text></g>
 </g>
-<rect x="757.9" y="159" width="9" height="18" fill="#22D3EE" opacity="1"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="0.9s" repeatCount="indefinite"/></rect>
+<rect x="748.6" y="159" width="9" height="18" fill="#22D3EE" opacity="1"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="0.9s" repeatCount="indefinite"/></rect>
 <line x1="520" y1="192" x2="1108" y2="192" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
 <g opacity="0">
 <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.02;0.05;0.92;1" dur="26s" begin="0.0s" repeatCount="indefinite"/>
 <circle cx="524" cy="214" r="3.5" fill="#7C3AED"/>
 <text x="538" y="219" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#94A3B8">Location:</text>
-<text x="685" y="219" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" font-weight="600" fill="#F8FAFC">San Francisco, CA</text>
+<text x="685" y="219" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" font-weight="600" fill="#F8FAFC">Salem, Tamil Nadu</text>
 </g>
 <g opacity="0">
 <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.025;0.055;0.92;1" dur="26s" begin="0.35s" repeatCount="indefinite"/>
 <circle cx="524" cy="237" r="3.5" fill="#22D3EE"/>
 <text x="538" y="242" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#94A3B8">Education:</text>
-<text x="685" y="242" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" font-weight="600" fill="#F8FAFC">B.S. Computer Science</text>
+<text x="685" y="242" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" font-weight="600" fill="#F8FAFC">B.E. AI &amp; Data Science, SJCIT</text>
 </g>
 <g opacity="0">
 <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.03;0.06;0.92;1" dur="26s" begin="0.7s" repeatCount="indefinite"/>
 <circle cx="524" cy="260" r="3.5" fill="#10B981"/>
 <text x="538" y="265" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#94A3B8">Current Focus:</text>
-<text x="685" y="265" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" font-weight="600" fill="#F8FAFC">Building AI-powered dev tools</text>
+<text x="685" y="265" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" font-weight="600" fill="#F8FAFC">Generative AI &amp; NLP Projects</text>
 </g>
 <g opacity="0">
 <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.035;0.065;0.92;1" dur="26s" begin="1.05s" repeatCount="indefinite"/>
 <circle cx="524" cy="283" r="3.5" fill="#7C3AED"/>
 <text x="538" y="288" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#94A3B8">Portfolio:</text>
-<text x="685" y="288" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" font-weight="600" fill="#F8FAFC">alexchen.dev</text>
+<text x="685" y="288" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" font-weight="600" fill="#F8FAFC">github.com/Dev032906</text>
 </g>
 <g opacity="0">
 <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.04;0.07;0.92;1" dur="26s" begin="1.4s" repeatCount="indefinite"/>
 <circle cx="524" cy="306" r="3.5" fill="#22D3EE"/>
 <text x="538" y="311" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#94A3B8">Email:</text>
-<text x="685" y="311" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" font-weight="600" fill="#F8FAFC">hello@alexchen.dev</text>
+<text x="685" y="311" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" font-weight="600" fill="#F8FAFC">gunadevasai@gmail.com</text>
 </g>
 <line x1="520" y1="344" x2="1108" y2="344" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
 <text x="520" y="366" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12" fill="#94A3B8" letter-spacing="1.5">SKILLS &amp; TOOLS</text>
 <g>
 <g transform="translate(520,382)" class="pill">
-<rect x="0" y="0" width="81.0" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+<rect x="0" y="0" width="89.19999999999999" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#7C3AED;rgba(255,255,255,0.12)" dur="4s" begin="0.0s" repeatCount="indefinite"/>
 </rect>
 <circle cx="16" cy="14.0" r="3" fill="#7C3AED"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
-<text x="52.5" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">React</text>
+<text x="56.599999999999994" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">Python</text>
 </g>
-<g transform="translate(610.0,382)" class="pill">
-<rect x="0" y="0" width="97.39999999999999" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+<g transform="translate(618.2,382)" class="pill">
+<rect x="0" y="0" width="72.8" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#22D3EE;rgba(255,255,255,0.12)" dur="4s" begin="0.12s" repeatCount="indefinite"/>
 </rect>
 <circle cx="16" cy="14.0" r="3" fill="#22D3EE"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.12s" repeatCount="indefinite"/></circle>
-<text x="60.699999999999996" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">Next.js</text>
+<text x="48.4" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">Java</text>
 </g>
-<g transform="translate(716.4,382)" class="pill">
-<rect x="0" y="0" width="97.39999999999999" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+<g transform="translate(700.0,382)" class="pill">
+<rect x="0" y="0" width="81.0" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#10B981;rgba(255,255,255,0.12)" dur="4s" begin="0.24s" repeatCount="indefinite"/>
 </rect>
 <circle cx="16" cy="14.0" r="3" fill="#10B981"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.24s" repeatCount="indefinite"/></circle>
-<text x="60.699999999999996" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">Node.js</text>
+<text x="52.5" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">Flask</text>
 </g>
-<g transform="translate(822.8,382)" class="pill">
-<rect x="0" y="0" width="122.0" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+<g transform="translate(790.0,382)" class="pill">
+<rect x="0" y="0" width="105.6" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#7C3AED;rgba(255,255,255,0.12)" dur="4s" begin="0.36s" repeatCount="indefinite"/>
 </rect>
 <circle cx="16" cy="14.0" r="3" fill="#7C3AED"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.36s" repeatCount="indefinite"/></circle>
-<text x="73.0" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">TypeScript</text>
+<text x="64.8" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">React.js</text>
 </g>
-<g transform="translate(953.8,382)" class="pill">
-<rect x="0" y="0" width="105.6" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+<g transform="translate(904.6,382)" class="pill">
+<rect x="0" y="0" width="97.39999999999999" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#22D3EE;rgba(255,255,255,0.12)" dur="4s" begin="0.48s" repeatCount="indefinite"/>
 </rect>
 <circle cx="16" cy="14.0" r="3" fill="#22D3EE"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.48s" repeatCount="indefinite"/></circle>
-<text x="64.8" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">Tailwind</text>
+<text x="60.699999999999996" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">Node.js</text>
 </g>
 <g transform="translate(520,420)" class="pill">
-<rect x="0" y="0" width="89.19999999999999" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+<rect x="0" y="0" width="97.39999999999999" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#10B981;rgba(255,255,255,0.12)" dur="4s" begin="0.6s" repeatCount="indefinite"/>
 </rect>
 <circle cx="16" cy="14.0" r="3" fill="#10B981"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
-<text x="56.599999999999994" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">Python</text>
+<text x="60.699999999999996" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">MongoDB</text>
 </g>
-<g transform="translate(618.2,420)" class="pill">
-<rect x="0" y="0" width="89.19999999999999" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+<g transform="translate(626.4,420)" class="pill">
+<rect x="0" y="0" width="81.0" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#7C3AED;rgba(255,255,255,0.12)" dur="4s" begin="0.72s" repeatCount="indefinite"/>
 </rect>
 <circle cx="16" cy="14.0" r="3" fill="#7C3AED"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.72s" repeatCount="indefinite"/></circle>
-<text x="56.599999999999994" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">Docker</text>
+<text x="52.5" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">MySQL</text>
 </g>
 <g transform="translate(716.4,420)" class="pill">
-<rect x="0" y="0" width="105.6" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+<rect x="0" y="0" width="64.6" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#22D3EE;rgba(255,255,255,0.12)" dur="4s" begin="0.84s" repeatCount="indefinite"/>
 </rect>
 <circle cx="16" cy="14.0" r="3" fill="#22D3EE"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.84s" repeatCount="indefinite"/></circle>
-<text x="64.8" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">Postgres</text>
+<text x="44.3" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">AWS</text>
 </g>
-<g transform="translate(831.0,420)" class="pill">
+<g transform="translate(790.0,420)" class="pill">
 <rect x="0" y="0" width="64.6" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#10B981;rgba(255,255,255,0.12)" dur="4s" begin="0.96s" repeatCount="indefinite"/>
 </rect>
 <circle cx="16" cy="14.0" r="3" fill="#10B981"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="0.96s" repeatCount="indefinite"/></circle>
-<text x="44.3" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">AWS</text>
+<text x="44.3" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">NLP</text>
 </g>
-<g transform="translate(904.6,420)" class="pill">
-<rect x="0" y="0" width="64.6" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+<g transform="translate(863.6,420)" class="pill">
+<rect x="0" y="0" width="81.0" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#7C3AED;rgba(255,255,255,0.12)" dur="4s" begin="1.08s" repeatCount="indefinite"/>
 </rect>
 <circle cx="16" cy="14.0" r="3" fill="#7C3AED"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="1.08s" repeatCount="indefinite"/></circle>
-<text x="44.3" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">Git</text>
+<text x="52.5" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">GenAI</text>
 </g>
-<g transform="translate(978.2,420)" class="pill">
-<rect x="0" y="0" width="81.0" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+<g transform="translate(953.6,420)" class="pill">
+<rect x="0" y="0" width="64.6" height="28" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#22D3EE;rgba(255,255,255,0.12)" dur="4s" begin="1.2s" repeatCount="indefinite"/>
 </rect>
 <circle cx="16" cy="14.0" r="3" fill="#22D3EE"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
-<text x="52.5" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">Figma</text>
+<text x="44.3" y="18.5" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#F8FAFC">Git</text>
 </g>
 </g>
 <line x1="520" y1="468" x2="1108" y2="468" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
 <g>
+<a xlink:href="https://github.com/Dev032906" href="https://github.com/Dev032906" target="_blank" rel="noopener noreferrer">
 <g transform="translate(536,496)" class="social">
 <circle cx="0" cy="0" r="16" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.12)" stroke-width="1" filter="url(#softGlow)">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#7C3AED;rgba(255,255,255,0.12)" dur="3s" begin="0.0s" repeatCount="indefinite"/>
@@ -249,6 +269,8 @@
 <path d="M -6,4 C -6,-2 -2,-6 0,-6 C 2,-6 6,-2 6,4 M -4,4 L -4,6 M 4,4 L 4,6 M -6,2 L -8,2 M 6,2 L 8,2" fill="none" stroke="#F8FAFC" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="0" y="31" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.5" fill="#94A3B8">GitHub</text>
 </g>
+</a>
+<a xlink:href="https://linkedin.com/in/devarajan-sg-a028602bb" href="https://linkedin.com/in/devarajan-sg-a028602bb" target="_blank" rel="noopener noreferrer">
 <g transform="translate(620,496)" class="social">
 <circle cx="0" cy="0" r="16" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.12)" stroke-width="1" filter="url(#softGlow)">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#22D3EE;rgba(255,255,255,0.12)" dur="3s" begin="0.5s" repeatCount="indefinite"/>
@@ -256,6 +278,8 @@
 <path d="M -6,-6 L -6,6 M 2,6 L 2,-1 C 2,-4 6,-4 6,-1 L 6,6 M -6,-9 L -6,-9" fill="none" stroke="#F8FAFC" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="0" y="31" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.5" fill="#94A3B8">LinkedIn</text>
 </g>
+</a>
+<a xlink:href="https://x.com/Dev2039" href="https://x.com/Dev2039" target="_blank" rel="noopener noreferrer">
 <g transform="translate(704,496)" class="social">
 <circle cx="0" cy="0" r="16" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.12)" stroke-width="1" filter="url(#softGlow)">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#10B981;rgba(255,255,255,0.12)" dur="3s" begin="1.0s" repeatCount="indefinite"/>
@@ -263,6 +287,8 @@
 <path d="M -8,6 C -3,7.5 4,4.5 5,-3 C 6,-3 7,-4 7,-5 C 6.3,-4.6 5.7,-4.6 5.2,-4.7 C 5.7,-5.5 5.9,-6 6,-6.5 C 5.4,-6 4.6,-5.6 4,-5.4 C 1.8,-7.3 -1.7,-6 -1.7,-2.9 C -4.4,-2.9 -6.3,-4.7 -7.6,-6.4 C -8.6,-3.3 -7.2,-1.6 -5.9,-0.7 C -6.8,-0.7 -7.5,-1 -8.1,-1.4 C -8.1,1 -6.4,2.3 -4.6,2.8 C -5.3,3 -6,3 -6.6,2.8 C -6.1,4.2 -4.7,5.2 -3,5.3 C -4.5,6.4 -6.4,7 -8.3,6.9" fill="none" stroke="#F8FAFC" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="0" y="31" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.5" fill="#94A3B8">Twitter</text>
 </g>
+</a>
+<a xlink:href="https://dev032906.github.io/devarajan-portfolio/" href="https://dev032906.github.io/devarajan-portfolio/" target="_blank" rel="noopener noreferrer">
 <g transform="translate(788,496)" class="social">
 <circle cx="0" cy="0" r="16" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.12)" stroke-width="1" filter="url(#softGlow)">
 <animate attributeName="stroke" values="rgba(255,255,255,0.12);#7C3AED;rgba(255,255,255,0.12)" dur="3s" begin="1.5s" repeatCount="indefinite"/>
@@ -270,6 +296,7 @@
 <path d="M -8,-2 L 8,-2 L 8,7 L -8,7 Z M -4,-2 L -4,-5 L 4,-5 L 4,-2" fill="none" stroke="#F8FAFC" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="0" y="31" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="9.5" fill="#94A3B8">Portfolio</text>
 </g>
+</a>
 </g>
 </g>
 </g>
